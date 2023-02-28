@@ -1,4 +1,6 @@
-#Nick Mair Load and Save Function
+#Nick Mair Save and Load
+#Ivan Susic Logik
+#Filip Stojanovic GUI
 
 import sys
 from PyQt6.QtWidgets import (
